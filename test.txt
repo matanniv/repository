@@ -1,3 +1,0 @@
-echo "niv"
-line22
-line33
